@@ -113,7 +113,7 @@ IMDb-Movie-Analytics/
 
 # 📸 Dashboard Preview
 
-Add screenshots of your Power BI dashboard here to showcase the visualizations.
+Added  screenshots of Power BI dashboard here to showcase the visualizations.
 
 ---
 
